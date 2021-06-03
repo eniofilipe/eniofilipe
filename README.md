@@ -13,7 +13,7 @@
   <img align="center" alt="Enio-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Enio-Cplusplus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">  
   <img align="center" alt="Enio-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">  
-  <img align="right" alt="Enio-Irmao-do-Jorel" src="https://tenor.com/bdthe.gif">
+  <img align="right" alt="Enio-Irmao-do-Jorel" src="https://media1.tenor.com/images/4825b1e1db559614b8ba4090e8a39bfd/tenor.gif?itemid=12184332">
 </div>
   
   ##
